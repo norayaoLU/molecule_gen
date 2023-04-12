@@ -30,7 +30,7 @@ For more options, check out main.py.
 
 ## Requirements
 
-Tested with Python 3, PyTorch 1.1 and RDKit 2018.09.1. Others can be installed by running pip3 -r requirements.txt.
+Tested with Python 3, PyTorch 1.1 and RDKit 2018.09.1. Others can be installed by running pip3 install -r requirements.txt.
 
 ## License
 
